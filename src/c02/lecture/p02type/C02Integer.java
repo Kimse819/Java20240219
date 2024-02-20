@@ -8,8 +8,6 @@ public class C02Integer {
         int b = 10;
         b = 30;
         b = 3000000;
-
-
         //내일은 byte, short 배울 예정
 
     }

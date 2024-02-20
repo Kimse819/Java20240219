@@ -39,8 +39,7 @@ public class C01Variable {
         int addressOfjane;
         int address;
 
-//        자바 키워드는(예약어) 는 변수명으로사용할 수 엇ㅂ없다.
-
+//        자바 키워드는(예약어) 는 변수명으로사용할 수 없다.
 
 
 
