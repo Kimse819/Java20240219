@@ -7,7 +7,7 @@ public class StringExample {
         System.out.println("이름 = " + name);
         System.out.println("직업 = " + job);
 
-        String str = "나는 \"자바\"를 베웁니다.";
+        String str = "나는\"자바\"를 베웁니다.";
         System.out.println(str);
 
         str = "번호\t이름\t직업";
