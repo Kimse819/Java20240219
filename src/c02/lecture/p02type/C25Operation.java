@@ -24,5 +24,6 @@ public class C25Operation {
 
         double j = (d + 0.0) / e;
         System.out.println("j = " + j);
+        //02-21 오전
     }
 }
