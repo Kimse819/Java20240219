@@ -29,7 +29,6 @@ public class c01switch {
 
         }
 
-
         System.out.println("statement 6");
         System.out.println("statement 7");
         System.out.println("statement 8");
