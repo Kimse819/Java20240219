@@ -16,7 +16,7 @@ public class C01ReferenceType {
         int[] brr;
         brr = new int[]{3, 4, 5};
 
-        System.out.println(arr == brr); // false
+        System.out.println(arr == brr); // false           
 
     }
 }
