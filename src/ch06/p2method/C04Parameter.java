@@ -26,10 +26,9 @@ class C04Calculator {
     }
 
     // 이곳에 코드 작성해 보세요
-    public void printDivide(double v, double v1) {
-
+    public void printDivide(double x, double y) {
+        double result = x / y;
+        System.out.println("result = " + result);
     }
-
-
 
 }
