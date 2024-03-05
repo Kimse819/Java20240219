@@ -1,4 +1,4 @@
-package ch06.p2method.Ex;
+package ch06.p3constructor.Ex;
 
 public class Car2 {
     String company = "현대자동차";

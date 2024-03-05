@@ -1,4 +1,4 @@
-package ch06.p2method.Ex;
+package ch06.p3constructor.Ex;
 
 public class Car2Ex {
     public static void main(String[] args) {
