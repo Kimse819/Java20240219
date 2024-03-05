@@ -1,4 +1,4 @@
-package ch06.p2method.Exam;
+package ch06.p3constructor.Exam;
 
 public class MemberService {
     boolean login(String id, String password) {
