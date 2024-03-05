@@ -24,5 +24,6 @@ public class Car2Ex {
         System.out.println("car4.maxSpeed : " + car4.maxSpeed);
         System.out.println();
     }
+    //alt + shift + 클릭 = 여러개 한번에 선택
 }
 
