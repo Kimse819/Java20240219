@@ -1,4 +1,4 @@
-package ch07.p1inherintance.Ex;
+package ch07.Ex;
 
 public class Calculator {
     public double areaCircle(double r){
