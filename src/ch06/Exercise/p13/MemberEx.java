@@ -7,8 +7,6 @@ public class MemberEx {
 
         Member member2 = new Member();
         member2.name = "Lee";
-
-
-
+        
     }
 }
