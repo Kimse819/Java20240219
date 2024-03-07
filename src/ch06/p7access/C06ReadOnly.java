@@ -39,4 +39,4 @@ class C06MyClass1{
     public int getAge() {
         return age;
     }
-}
+} //추가
