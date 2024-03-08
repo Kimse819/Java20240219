@@ -1,4 +1,4 @@
-package ch07.p2Polymorphism;
+package ch07.lecture.p2Polymorphism;
 
 public class C04Polymorphism {
     public static void main(String[] args) {

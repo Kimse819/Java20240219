@@ -5,7 +5,7 @@ public class C01casting {
         C01Animal animal1 = new C01Tiger();
         animal1.breathe();
 
-        // casting : 강제형변환
+        // casting : 강제 형변환
         C01Tiger tiger = (C01Tiger) animal1;
         tiger.roar();
 

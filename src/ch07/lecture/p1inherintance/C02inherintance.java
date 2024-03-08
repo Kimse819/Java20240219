@@ -1,4 +1,4 @@
-package ch07.p1inherintance;
+package ch07.lecture.p1inherintance;
 
 public class C02inherintance {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ch07.p2Polymorphism.Exam;
+package ch07.lecture.p2Polymorphism.Exam;
 
 public class SnowTireEx {
     public static void main(String[] args) {

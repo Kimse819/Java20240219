@@ -1,4 +1,4 @@
-package ch07.p2Polymorphism.Ex;
+package ch07.lecture.p2Polymorphism.Ex;
 
 public class DriverEx {
     public static void main(String[] args) {
