@@ -11,7 +11,7 @@ public class RemoteControlEx2 {
         rc.setMute(true);
         rc.setMute(false);
 
-        System.out.println("---------------");
+        System.out.println("-------------");
 
         rc = new Audio();
         rc.turnOn();
@@ -19,5 +19,9 @@ public class RemoteControlEx2 {
 
         rc.setMute(true);
         rc.setMute(false);
+
+        System.out.println("----------------------");
+
+        RemoteControl3.ChangeBattery();
     }
 }
