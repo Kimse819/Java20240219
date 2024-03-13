@@ -1,4 +1,4 @@
-package ch09.lecture.p1nested;
+package ch09.lecture.p1nested.p2anonymous;
 
 public class C08Lambda {
     public static void main(String[] args) {
