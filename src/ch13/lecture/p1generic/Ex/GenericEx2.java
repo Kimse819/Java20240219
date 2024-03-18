@@ -1,6 +1,6 @@
 package ch13.lecture.p1generic.Ex;
 
-public class GenericEx {
+public class GenericEx2 {
     public static void main(String[] args) {
         Box1 box1 = new Box1();
         box1.content = "100";
