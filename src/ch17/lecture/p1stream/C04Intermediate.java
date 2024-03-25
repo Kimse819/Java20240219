@@ -1,8 +1,6 @@
 package ch17.lecture.p1stream;
 
 import java.util.List;
-
-import java.util.List;
 import java.util.stream.Stream;
 
 public class C04Intermediate {

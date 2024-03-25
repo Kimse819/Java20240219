@@ -21,11 +21,11 @@ public class C02Terminal {
         list.stream()
                 .forEach(System.out::println);
 
-        //stream.count();
+//        stream.count();
         long count = list.stream()
                 .count();
         System.out.println("count = " + count);
-        //stream.max();
+        //        stream.max();
         Optional<Integer> max = list.stream()
                 .max((a, b) -> a - b);
 

@@ -11,7 +11,7 @@ public class C06Filter {
                 .forEach(System.out::println);
 
         System.out.println();
-
+        
         list.stream()
                 .filter(e -> e.length() % 2 == 1)
                 .forEach(System.out::println);
