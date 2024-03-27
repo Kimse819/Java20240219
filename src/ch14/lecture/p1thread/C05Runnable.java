@@ -20,5 +20,6 @@ class MyThread5 implements Runnable {
         for (int i = 0; i < 30000; i++) {
             System.out.println(i);
         }
+        //수정
     }
 }
